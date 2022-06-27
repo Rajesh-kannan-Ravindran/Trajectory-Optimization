@@ -1,5 +1,5 @@
 %% TRAJECTORY OPTIMIZATION%%
-% Copyrights: Theyagarajan SELVAM, Sarvesh RAVICHANDRAN, Rajesh Kannan RAVINDRAN Centrale Nantes
+% Copyrights: Theyagarajan SELVAM, Sarvesh RAVICHANDRAN, Rajesh Kannan RAVINDRAN, Hariharan Loganathan Centrale Nantes
 
 %Trajectory Optimization is done using GUIDE in Matlab
 
